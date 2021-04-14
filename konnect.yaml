@@ -261,7 +261,7 @@ service_packages:
               redis_timeout: 2000
               second: 5
               year: null
-            enabled: false
+            enabled: true
             protocols:
             - grpc
             - grpcs
