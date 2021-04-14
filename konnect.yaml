@@ -259,9 +259,9 @@ service_packages:
               redis_password: null
               redis_port: 6379
               redis_timeout: 2000
-              second: 2
+              second: 5
               year: null
-            enabled: false
+            enabled: true
             protocols:
             - grpc
             - grpcs
